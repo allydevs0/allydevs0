@@ -3,22 +3,6 @@
 
 ---
 
-## 🏆 GitHub Stats
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-
-  <div>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allydevs0&layout=compact&theme=radical)
-  </div>
-
-  <div>
-    ![AllyDevs Stats](https://github-readme-stats.vercel.app/api?username=allydevs0&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
-  </div>
-
-</div>
-
----
-
 ## 💻 Tech Stack
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: start;">
